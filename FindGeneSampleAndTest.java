@@ -1,6 +1,5 @@
 /*
  * Finding gene from DNA
- * @MC
  * Version-1
  */
 public class FindGeneSampleAndTest {
