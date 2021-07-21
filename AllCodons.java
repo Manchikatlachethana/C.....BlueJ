@@ -1,6 +1,5 @@
 /*
  * Finding 3 stop codons(TAA,TGA,TAG)
- * @MC
  * Version-1.2
  */
 public class AllCodons {
