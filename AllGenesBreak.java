@@ -1,7 +1,6 @@
 /*
  * Finding Multiple Genes(using Break).
  * If no gene found in dna it returns empty string.
- * @author MC
  * Version-1.4
  */
 public class AllGenesBreak {
