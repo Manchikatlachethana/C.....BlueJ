@@ -1,6 +1,5 @@
 /*
  * Finding 3 stop codons(TAA,TGA,TAG)using AND,OR
- * @MC
  * Version-1.3
  */
 public class AllCodonsAndOr {
