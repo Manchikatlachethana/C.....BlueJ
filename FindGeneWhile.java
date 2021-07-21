@@ -1,6 +1,5 @@
 /*
  * Finding gene from DNA(but having codons(A,T,G,C) in substring with multiple of 3)
- * @author MC
  * Version-1.1
  */
 public class FindGeneWhile {
