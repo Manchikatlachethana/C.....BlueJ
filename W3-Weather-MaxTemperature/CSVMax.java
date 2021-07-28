@@ -1,11 +1,9 @@
 
 /**
- * CSV FILE: WEATHER AT RALEIGH -DURHAM AIRPORT(2012,2013,2014,2015)
- * 
  * CSVMax: To find out hottest tempearture of a particular hour on the particular day from csv files!
  * 
  * METHODS
- * -----
+ * ------
  *  hottestHourInFile: finds hottest temperature and returns the that temperature record.
  *  testHottestInDay: tests the hottestHourInFile method by choosing required file(any year & any day) and 
  *                     returns temperature record along with time zone.
@@ -47,5 +45,5 @@ public class CSVMax {
  * OUTPUT
  * ------
  * ON 2015-01-01,Hottest Temperature was 51.1 at 2:51 PM
-
+ *
  */
